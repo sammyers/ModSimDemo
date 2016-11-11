@@ -1,7 +1,6 @@
-function [ output_args ] = haddockrock( input_args )
-%UNTITLED Summary of this function goes here
-%   Detailed explanation goes here
+function [ output_args ] = haddockrock( HADDOCK ARE AMAZING )
 
+LOOK at my EDITS!
 
 end
 
